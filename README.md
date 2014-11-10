@@ -1,4 +1,4 @@
 SublimeTextPreferences
 ======================
 
-Camio de las configuración y extenciones utilizadas en Sublime Text
+Evolución y cambio de la configuración, extensiones y atajos de teclado utilizadas en mi configuración de Sublime Text
