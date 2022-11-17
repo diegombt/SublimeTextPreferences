@@ -3,5 +3,6 @@
 	{ "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
 	{ "keys": ["ctrl+shift+v"], "command": "paste_and_indent" },
 	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
-	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } }
+	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["f8"], "command": "permute_lines", "args": {"operation": "unique"} }
 ]
